@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">GeoQuizReview</string>
+    <string name="question_text">Canberra is the capital of Australia.</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="next_button">Next</string>
+    <string name="previous_button">Previous</string>
+    <string name="quiz_score">Your score: </string>
+    <string name="warning_text">Are you sure you want to do this?</string>
+    <string name="show_answer_button">Show Answer</string>
+    <string name="cheat_button">Cheat!</string>
+    <string name="judgment_toast">Cheating is wrong.</string>
+
+    <string name="question_HaNoi">Ha Noi la thu do Viet Nam?</string>
+    <string name="question_NgheAn">Nghe An la que Bac Ho?</string>
+    <string name="question_BacNinh">Cai luong la am nhac cua Bac Ninh?</string>
+    <string name="question_VinhPhuc">Vinh Phuc la thanh pho lon nhat Viet Nam?</string>
+</resources>
